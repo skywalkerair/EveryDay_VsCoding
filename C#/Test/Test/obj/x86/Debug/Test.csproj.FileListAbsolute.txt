@@ -1,0 +1,4 @@
+C:\Users\skywalker\Desktop\EveryDay_VsCoding-master\C#\Test\Test\bin\Debug\Test.exe
+C:\Users\skywalker\Desktop\EveryDay_VsCoding-master\C#\Test\Test\bin\Debug\Test.pdb
+C:\Users\skywalker\Desktop\EveryDay_VsCoding-master\C#\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\skywalker\Desktop\EveryDay_VsCoding-master\C#\Test\Test\obj\x86\Debug\Test.pdb
